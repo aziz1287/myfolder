@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Javaproject
+Bundle-SymbolicName: Javaproject
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: Javaproject
+Bundle-RequiredExecutionEnvironment: JavaSE-16

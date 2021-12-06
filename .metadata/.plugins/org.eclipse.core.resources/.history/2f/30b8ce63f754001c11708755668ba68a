@@ -1,0 +1,10 @@
+package com.bl.basiccoreprograms;
+
+public class Prob2_LeapYear {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

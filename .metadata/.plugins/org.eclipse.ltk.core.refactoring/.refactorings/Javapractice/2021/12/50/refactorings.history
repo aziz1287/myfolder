@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Practice.SnakeAndLadder&apos; to &apos;SnakeAndLadderpractice&apos;&#x0D;&#x0A;- Original project: &apos;Javaproject&apos;&#x0D;&#x0A;- Original element: &apos;Practice.SnakeAndLadder&apos;&#x0D;&#x0A;- Renamed element: &apos;Practice.SnakeAndLadderpractice&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SnakeAndLadder&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Practice{SnakeAndLadder.java[SnakeAndLadder" matchStrategy="1" name="SnakeAndLadderpractice" qualified="false" references="true" similarDeclarations="false" stamp="1638727769106" textual="false" version="1.0"/>
+</session>
