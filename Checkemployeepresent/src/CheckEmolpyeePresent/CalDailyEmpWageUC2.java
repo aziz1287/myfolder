@@ -19,10 +19,10 @@ public class CalDailyEmpWageUC2 {
 		double empSalary = workingHour = SALARY_PER_HOUR;
 		
 		
-		System.out.println("Employee has earned " + empSalary + " dollar todayy");
+		System.out.println("Employee has earned "  +empSalary+  " dollar todayy");
 		
 		
 
 	}
 
-}
+} 
